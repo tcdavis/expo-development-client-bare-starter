@@ -315,7 +315,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.name.Test1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.tc.dctest1;
 				PRODUCT_NAME = Test1;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -343,7 +343,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.name.Test1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.tc.dctest1;
 				PRODUCT_NAME = Test1;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
